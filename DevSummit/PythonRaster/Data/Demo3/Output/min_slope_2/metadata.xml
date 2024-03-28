@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200303</CreaDate><CreaTime>17081100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\DevSummit20\PythonRaster\Demo.tbx\MinSlope" Date="20200303" Time="170811">MinSlope C:\DevSummit20\PythonRaster\Data\MinSlope\Input\dem C:\DevSummit20\PythonRaster\Data\MinSlope\Output\min_slope_2</Process></lineage></DataProperties></Esri></metadata>
